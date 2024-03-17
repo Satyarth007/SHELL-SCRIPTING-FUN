@@ -1,2 +1,5 @@
 # SHELL-SCRIPTING-FUN
-Funny projects
+
+# 1 Digital Clock in Terminal : 
+
+
